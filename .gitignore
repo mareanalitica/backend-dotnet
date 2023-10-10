@@ -1,0 +1,46 @@
+# Ignorar arquivos de compilação gerados
+bin/
+obj/
+
+# Ignorar arquivos de saída de depuração
+Debug/
+Release/
+
+# Ignorar arquivos de configuração específicos do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos de configuração do Rider (IDE alternativa para C#)
+.idea/
+
+# Ignorar arquivos temporários e caches
+*.log
+*.vscode/
+.vscode/
+
+# Ignorar arquivos de pacotes e dependências do NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Ignorar arquivos de configuração de usuário para Rider
+.idea/
+.ideaCodeStyles/
+.ideaInspection/
+.ideaExternalAnnotations/
+.ideaGenerated/
+.ideaNativeTypes/
+.ideaShadow/
+.ideaTasks/
+.ideaVcs/
+.ideaWizard/
+
+# Ignorar arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
